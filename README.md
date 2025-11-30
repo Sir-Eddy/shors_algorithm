@@ -1,21 +1,21 @@
-# ⚛️ Shors Algorithmus: Implementation & Physikalische Hürden
+# ⚛️ Shor's Algorithm: Implementation & Physical Hurdles
 
-Dieses Repository enthält ein interaktives **Jupyter Notebook**, das Shors Algorithmus erklärt und die technischen Herausforderungen simuliert. 
+This repository contains an interactive **Jupyter Notebook** that explains Shor's algorithm and simulates technical challenges.
 
-## 🚀 Schnellstart
+## 🚀 Quick Start
 
-1.  **Repository klonen:**
+1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/Sir-Eddy/shors_algorithm.git](https://github.com/Sir-Eddy/shors_algorithm.git)
     cd shors_algorithm
     ```
 
-2.  **Notebook starten:**
+2.  **Start the notebook:**
     ```bash
     jupyter notebook shors_algorithm.ipynb
     ```
 
-## 🛠 Voraussetzungen
+## 🛠 Prerequisites
 
 * Python 3.8+
 * Jupyter Lab
