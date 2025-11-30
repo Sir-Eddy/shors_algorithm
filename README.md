@@ -6,7 +6,7 @@ This repository contains an interactive **Jupyter Notebook** that explains Shor'
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Sir-Eddy/shors_algorithm.git](https://github.com/Sir-Eddy/shors_algorithm.git)
+    git clone https://github.com/Sir-Eddy/shors_algorithm.git
     cd shors_algorithm
     ```
 
